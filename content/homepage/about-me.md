@@ -23,4 +23,4 @@ Le quote associative per l'anno 2022 sono riportate nella tabella sottostante.
 
 [{{<icon class="fa fa-file-pdf-o">}} Modulo d'iscrizione](files/Modulo_iscrizione-v2.pdf)  
 
-I took this from https://forkaweso.me/Fork-Awesome/icon/file-pdf-o
+Le coordinate bancarie possono essere trovate [qui](banca).

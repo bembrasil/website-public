@@ -53,7 +53,7 @@ L'associazione vuole offrire l'opportunità di conoscere e provare il samba bras
 
 #### Prossime attività
 Vuoi essere avvisato quando sono previste nuove attività? 
-Scrivici un'email all'indirizzo [qui sotto](homepage/contact).
+Scrivici un'email all'indirizzo aps.bembrasil@gmail.com.
 
 
-Check out [this page](services) I created. It carries a lot more details...
+Check out [this page](acknowledgements) I created. It carries a lot more details...
