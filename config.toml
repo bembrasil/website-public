@@ -1,4 +1,4 @@
-baseURL = "https://bembrasil.github.io"
+baseURL = "https://bembrasil.github.io/website-public"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
