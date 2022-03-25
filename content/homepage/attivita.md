@@ -18,8 +18,7 @@ Informati sotto sulle attività attuale!
 ![Nice picture to make you pay me ;-)](images/00_IMG-20210922-WA0027.jpg)
 
 #### Prossime attività
-* Sabato 12 marzo: Samba con Aquarela Axé al BUNKER a Bolzano.
-* SPECIALE!! a partire da Marzo: lezioni privati di chitarra, cavalquinho, ukulele, canto
+* SPECIALE!! Il 6 Aprile partono i corsi di musica con Mariany Figueiredo de Souza!! [Vedi tutte le informazioni qui](corso).
 * Giugno tbd: Concerto con Sombra a Bolzano.
 
 ---
