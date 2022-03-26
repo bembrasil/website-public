@@ -5,7 +5,11 @@ title:
 ---
 ### Corsi di musica
 
-La **musicista brasiliana Mariany Figueiro de Souza** offre corsi di:
+La **musicista brasiliana Mariany Figueiro de Souza** 
+
+![Mariany Figueiro de Souza](../images/Mariany-chitarra.jpeg)
+
+offre corsi di:
 - canto
 - chitarra
 - ukulele

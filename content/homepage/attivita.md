@@ -15,7 +15,7 @@ Gli associati possono godere dei concerti al vivo e partecipare a corsi di chita
 
 Informati sotto sulle attività attuale!
 
-![Nice picture to make you pay me ;-)](images/00_IMG-20210922-WA0027.jpg)
+![Gruppo di Samba nel Ca'de Bezzi](images/00_IMG-20210922-WA0027.jpg)
 
 #### Prossime attività
 * SPECIALE!! Il 6 Aprile partono i corsi di musica con Mariany Figueiredo de Souza!! [Vedi tutte le informazioni qui](corso).
@@ -29,11 +29,11 @@ Informati sotto sulle attività attuale!
 
 Vogliamo creare uno spazio per praticare il portoghese - sia per chi vuole imparare la lingua che per chi ha semplicemente voglia di parlare.
 
-![Let us get started on a clean slate](images/pexels-christina-morillo-1181715.jpg)
+![Parlare portoghese](images/pexels-christina-morillo-1181715.jpg)
 
 ... e se c'è anche qualcosa da mangiare, tanto meglio!
 
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
+![Cucina portoghese](images/woman-pouring-juice-on-glass-3184192.jpg)
 
 #### Prossime attività
 * a partire da Maggio: incontri informali nel parco Semiruali, BZ
@@ -46,7 +46,7 @@ In Brasile, la gente balla e festeggia. Ma non solo. Le attività sportive, spec
 
 L'associazione vuole offrire l'opportunità di conoscere e provare il samba brasiliano. E lo stesso vale per le attività sportive di gruppo.
 
-![Let us get started on a clean slate](images/pexels-mathieu-acker-2496562.jpg)
+![Bem Brasil APS](images/pexels-mathieu-acker-2496562.jpg)
 
 ---
 
