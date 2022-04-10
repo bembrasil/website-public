@@ -18,7 +18,8 @@ Informati sotto sulle attività attuale!
 ![Gruppo di Samba nel Ca'de Bezzi](images/00_IMG-20210922-WA0027.jpg)
 
 #### Prossime attività
-* SPECIALE!! Il 6 Aprile partono i corsi di musica con Mariany Figueiredo de Souza!! [Vedi tutte le informazioni qui](corso).
+* SPECIALE!! A partire di Aprile teniamo corsi di musica con Mariany Figueiredo de Souza!! [Vedi tutte le informazioni qui](corso).
+* 28 Maggio, 15:30 alle 23:00 Brazilian Day al parco Semiruali a Bolzano
 * Giugno tbd: Concerto con Sombra a Bolzano.
 
 ---
