@@ -19,8 +19,9 @@ Informati sotto sulle attività attuale!
 
 #### Prossime attività
 * SPECIALE!! A partire di Aprile teniamo corsi di musica con Mariany Figueiredo de Souza!! [Vedi tutte le informazioni qui](corso).
-* 28 Maggio, 15:30 alle 23:00 Brazilian Day al parco Semiruali a Bolzano
-* Giugno tbd: Concerto con Sombra a Bolzano.
+* 28 Aprile, 18:00 Café musical - una conversazione sulla musica brasiliana: storia, ritmi e sapori alla Biblioteca Culture del Mondo a Bolzano
+* 28 Maggio, 15:30 alle 23:00 Brazilian Day al parco Semirurali a Bolzano
+* Giugnio/luglio tbd: Concerto con Sombra a Bolzano.
 
 ---
 
