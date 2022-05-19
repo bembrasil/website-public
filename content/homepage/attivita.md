@@ -6,6 +6,16 @@ header_menu: true
 
 Bem Brasil APS sta proponendo una serie di attività musicale, culturale, sportive, socievole e di tutto piacevole.
 
+!! DA NON PERDERE !!  
+**28 maggio 2022, Brazilian Day** al parco Semirurali a Bolzano, con
+* capoeira
+* musica
+* ballo
+* culinaria
+... e FESTA!!!
+
+[Vedi i dettagli qui](brazilianday)
+
 ---
 
 ## Musica brasiliana
@@ -18,10 +28,14 @@ Informati sotto sulle attività attuale!
 ![Gruppo di Samba nel Ca'de Bezzi](images/00_IMG-20210922-WA0027.jpg)
 
 #### Prossime attività
-* SPECIALE!! A partire di Aprile teniamo corsi di musica con Mariany Figueiredo de Souza!! [Vedi tutte le informazioni qui](corso).
+* 28 Maggio, 15:30 alle 23:00 Brazilian Day al parco Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday)
+* Giugno/luglio tbd: Concerti a Bolzano, Trento, Lago di Garda e dintorni
+
+#### Attività svolte
 * 28 Aprile, 18:00 Café musical - una conversazione sulla musica brasiliana: storia, ritmi e sapori alla Biblioteca Culture del Mondo a Bolzano
-* 28 Maggio, 15:30 alle 23:00 Brazilian Day al parco Semirurali a Bolzano
-* Giugnio/luglio tbd: Concerto con Sombra a Bolzano.
+* Aprile/maggio corsi di musica con Mariany Figueiredo de Souza!! [Vedi tutte le informazioni qui](corso)
+* 12 Marzo, festa Bem Brasil APS al centro giovanile Bunker, Bolzano
+* 29 Gennaio, incontro della Associazione Bem Brasil APS al Restaurante Garni Hauenstein a Siusi
 
 ---
 
