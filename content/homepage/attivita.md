@@ -6,16 +6,6 @@ header_menu: true
 
 Bem Brasil APS desidera offrire una serie di attività musicali, culturali, sportive, socievole e di tutto piacevole.
 
-!! DA NON PERDERE !!  
-**28 maggio 2022, Brazilian Day** al parco Semirurali a Bolzano, con
-* capoeira
-* musica
-* ballo
-* culinaria
-... e FESTA!!!
-
-[Vedi i dettagli qui](brazilianday)
-
 ---
 
 ## Musica brasiliana
