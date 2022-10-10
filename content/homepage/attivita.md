@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-Bem Brasil APS sta proponendo una serie di attività musicale, culturale, sportive, socievole e di tutto piacevole.
+Bem Brasil APS desidera offrire una serie di attività musicali, culturali, sportive, socievole e di tutto piacevole.
 
 !! DA NON PERDERE !!  
 **28 maggio 2022, Brazilian Day** al parco Semirurali a Bolzano, con
@@ -28,10 +28,12 @@ Informati sotto sulle attività attuale!
 ![Gruppo di Samba nel Ca'de Bezzi](images/00_IMG-20210922-WA0027.jpg)
 
 #### Prossime attività
-* 28 Maggio, 15:30 alle 23:00 Brazilian Day al parco Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday)
-* Giugno/luglio tbd: Concerti a Bolzano, Trento, Lago di Garda e dintorni
+
+* 2 Dicembre: Giorno della Samba (Bolzano o in vicinanza, dettagli seguono)
 
 #### Attività svolte
+* 14 Agosto, ore 16:00 alle 21:00 festa di Samba nella Piazza al Centro Lovera in viale Europa 3 a Bolzano [Vedi il volantino qui](images/00_IMG-20210922-WA0027.jpg)
+* 28 Maggio, 15:30 alle 23:00 Brazilian Day al parco Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday)
 * 28 Aprile, 18:00 Café musical - una conversazione sulla musica brasiliana: storia, ritmi e sapori alla Biblioteca Culture del Mondo a Bolzano
 * Aprile/maggio corsi di musica con Mariany Figueiredo de Souza!! [Vedi tutte le informazioni qui](corso)
 * 12 Marzo, festa Bem Brasil APS al centro giovanile Bunker, Bolzano
@@ -52,7 +54,7 @@ Vogliamo creare uno spazio per praticare il portoghese - sia per chi vuole impar
 ![Cucina portoghese](images/woman-pouring-juice-on-glass-3184192.jpg)
 
 #### Prossime attività
-* a partire da Maggio: incontri informali nel parco Semiruali, BZ
+* su richiesta: incontri informali o corso della lingua portoghese da organizzare
 
 ---
 
