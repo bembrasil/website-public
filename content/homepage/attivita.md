@@ -18,10 +18,11 @@ Informati sotto sulle attività attuale!
 ![Gruppo di Samba nel Ca'de Bezzi](images/00_IMG-20210922-WA0027.jpg)
 
 #### Prossime attività
+* 27 Maggio, 11:00 alle 23:00 Brazilian Day al parco Semirurali a Bolzano (in preparazione, più informazioni seguiranno)
 
-* 2 Dicembre: Giorno della Samba (Bolzano o in vicinanza, dettagli seguono)
-
-#### Attività svolte
+#### Attività svolte in 2022
+* 2 Dicembre: Giorno della Samba e partita del Brasile, ore 19:00 al Cheope Disco Club in via Brennero 6 a Pineta di Laives [Vedi il volantino qui](images/giorno-della-Samba.jpg)
+* 26 Novembre, ore 17:00 Freestyle de Forró al Centro Lovera in viale Europa 3 a Bolzano [Vedi il volantino qui](images/freestyle-de-forro.JPG)
 * 14 Agosto, ore 16:00 alle 21:00 festa di Samba nella Piazza al Centro Lovera in viale Europa 3 a Bolzano [Vedi il volantino qui](images/samba-nella-piazza.png)
 * 28 Maggio, 15:30 alle 23:00 Brazilian Day al parco Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday)
 * 28 Aprile, 18:00 Café musical - una conversazione sulla musica brasiliana: storia, ritmi e sapori alla Biblioteca Culture del Mondo a Bolzano
