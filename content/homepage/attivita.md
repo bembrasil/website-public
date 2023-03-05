@@ -41,7 +41,7 @@ L'associazione vuole offrire l'opportunità di conoscere e provare il samba bras
 ![Bem Brasil APS](images/pexels-mathieu-acker-2496562.jpg)
 
 #### Prossime attività
-* 24 Marzo, 19:30 alle 23:30 Workshop di Forró al centro Lovera a Bolzano [Vedi il volantino qui](images/workshop-forro.jpg)
+* 24 Marzo, 19:30 alle 23:30 Workshop di Forró al centro Lovera a Bolzano [Vedi tutte le informazioni qui](festadellaintegrazione)
 
 #### Attività svolte in 2022
 * 26 Novembre, ore 17:00 Freestyle de Forró al Centro Lovera in viale Europa 3 a Bolzano [Vedi il volantino qui](images/freestyle-de-forro.JPG)
