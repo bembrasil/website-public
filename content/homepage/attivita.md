@@ -6,6 +6,11 @@ header_menu: true
 
 Bem Brasil APS desidera offrire una serie di attività musicali, culturali, sportive, socievole e di tutto piacevole.
 
+##### Coming soon...
+* 19 Marzo, 13:00 alle 19:30 Festa della integrazione al centro Lovera a Bolzano [Vedi tutte le informazioni qui](festadellaintegrazione)
+* 24 Marzo, 19:30 alle 23:30 Workshop di Forró al centro Lovera a Bolzano [Vedi tutte le informazioni qui](workshopforro)
+
+
 ---
 
 ## Musica brasiliana
