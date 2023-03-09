@@ -18,12 +18,10 @@ Ci sarà anche qualche assaggio della culinaria brasiliana come
 
 ---
 
-**Desideriamo ringraziare i nostri sponsor:**
+**Desideriamo ringraziare i nostri partner:**
 
 ![Rothoblaas](../images/RB_logo_hor_payoff_white.jpg)
 [www.rothoblaas.com](www.rothoblaas.com)
 
 ![Pauli Berna Tischlerei](../images/logo-pauli-berna-v2.jpg)
 [http://pauliberna.com/](http://pauliberna.com/)
-
-![V21 spazio eventi](../images/logo-v21.jpg)
