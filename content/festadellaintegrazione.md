@@ -21,12 +21,19 @@ Bem Brasil ed amici dalla Colombia presentano un ampio progamma con:
 * 5€ per soci (incluso una bibita)
 
 🍲 Cibo tipico: 
-* Feijão amigo
+* Feijão amigo 🇧🇷
 ![Feijao](../images/feijao-amigo.JPG)
-* Patatine con o senza wurstel
+* Patatine con o senza wurstel 🇧🇷
 ![Patatine](../images/patatine.JPG)
-* Brigadeirão
+* Brigadeirão 🇧🇷
 ![Brigadeirao](../images/brigadeirao.JPG)
+
+* Empanadas de carne 🇨🇴
+![empanadas](../images/empanadas.JPG)
+* Pasteles de pollo 🇨🇴
+![pasteles](../images/pasteles.JPG)
+* Salpicon 🇨🇴
+![salpicon](../images/salpicon.JPG)
 
 Più informazioni seguono fra poco!!
 

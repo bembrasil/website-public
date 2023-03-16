@@ -39,3 +39,17 @@ Le [coordinate bancarie](../banca) possono essere trovate [qui](../banca).
 
 ![Workshop Forro](../images/workshop-forro.jpg)
 
+
+#### Insegnante: Fabrício Soares
+È un grande onore per noi presentarvi l'insegnante che terrà la lezione: *Fabrício Soares* 🥳
+
+![Fabricio](../images/fabricio.JPG)
+
+Nato e cresciuto a Rio de Janeiro, dopo aver scoperto la passione per il forró ha frequentato le *lezioni con diversi insegnanti a Rio de Janeiro* fino a quando ha finalmente conosciuto lo stile e la tecnica di *Hugo Silva*, a Belo Horizonte, dove è entrato a far parte del team di Simbora Dançar, una scuola gestita da Hugo e Aline Souza.
+
+Durante un periodo di un anno e mezzo, ha avuto l'opportunità di incontrare e prendere *lezioni con alcuni dei migliori ballerini e insegnanti* di forró del mondo, sia nello *stile roots* che in quello *universitario*.
+
+La somma di queste esperienze ha portato Fabrício a sviluppare una danza basata sull'idea di *"stile base ben fatto", conforto e cura all'interno dell'abbraccio*.
+
+Qui la sua pagina Instagram https://instagram.com/fabri.forro?igshid=YmMyMTA2M2Y= 🕺
+
