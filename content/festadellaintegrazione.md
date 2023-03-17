@@ -17,8 +17,8 @@ Bem Brasil ed amici dalla Colombia presentano un ampio progamma con:
 ![Festa integrazione](../images/festa-integrazione.png)
 
 💶 Entrata:
-* 10€ (incluso una bibita)
-* 5€ per soci (incluso una bibita)
+* 5€ 
+* 3€ per soci
 
 🍲 Cibo tipico: 
 * Feijão amigo 🇧🇷
@@ -32,6 +32,8 @@ Bem Brasil ed amici dalla Colombia presentano un ampio progamma con:
 ![empanadas](../images/empanadas.JPG)
 * Pasteles de pollo 🇨🇴
 ![pasteles](../images/pasteles.JPG)
+* Papa rellena 🇨🇴
+![paparellena](../images/paparellena.JPG)
 * Salpicon 🇨🇴
 ![salpicon](../images/salpicon.JPG)
 
