@@ -7,9 +7,7 @@ header_menu: true
 Bem Brasil APS desidera offrire una serie di attività musicali, culturali, sportive, socievole e di tutto piacevole.
 
 ##### Coming soon...
-* 19 Marzo, 13:00 alle 19:30 Festa della integrazione al centro Lovera a Bolzano [Vedi tutte le informazioni qui](festadellaintegrazione)
-* 24 Marzo, 19:30 alle 23:30 Workshop di Forró al centro Lovera a Bolzano [Vedi tutte le informazioni qui](workshopforro)
-
+* 27 Maggio, 11:00 alle 23:00 Bem Brasilian Day al parco Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday23)
 
 ---
 
@@ -23,8 +21,10 @@ Informati sotto sulle attività attuale!
 ![Gruppo di Samba nel Ca'de Bezzi](images/00_IMG-20210922-WA0027.jpg)
 
 #### Prossime attività
+* 27 Maggio, 11:00 alle 23:00 Bem Brasilian Day al parco Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday23)
+
+#### Attività svolte in 2023
 * 19 Marzo, 13:00 alle 19:30 Festa della integrazione al centro Lovera a Bolzano [Vedi tutte le informazioni qui](festadellaintegrazione)
-* 27 Maggio, 11:00 alle 23:00 Brazilian Day al parco Semirurali a Bolzano (in preparazione, più informazioni seguiranno)
 
 #### Attività svolte in 2022
 * 2 Dicembre: Giorno della Samba e partita del Brasile, ore 19:00 al Cheope Disco Club in via Brennero 6 a Pineta di Laives [Vedi il volantino qui](images/giorno-della-Samba.jpg)
@@ -45,7 +45,7 @@ L'associazione vuole offrire l'opportunità di conoscere e provare il samba bras
 
 ![Bem Brasil APS](images/pexels-mathieu-acker-2496562.jpg)
 
-#### Prossime attività
+#### Attività svolte in 2023
 * 24 Marzo, 19:30 alle 23:30 Workshop di Forró al centro Lovera a Bolzano [Vedi tutte le informazioni qui](workshopforro)
 
 #### Attività svolte in 2022
