@@ -25,4 +25,4 @@ Le quote associative per l'anno 2022 sono riportate nella tabella sottostante.
 
 Le coordinate bancarie possono essere trovate [qui](banca).
 
-![Jane Doe](images/5xmille-BemBrasil.jpeg)
+![Jane Doe](images/5xmille-BemBrasil.jpg)
