@@ -9,7 +9,7 @@ Il sabato **27 maggio 2023, dalle ore 11:00 alle 23:00** si terra il Bem Brasili
 
 ![Brazilian Day](../images/BemBrasilianDay2023-con-logo.jpg)
 
-Il ricco programma si svolge così:
+#### PROGRAMMA con orari ####
 * 11:00 inizio con apertura di cucina e bar
 * 13:00 benvenuto da parte dalla associazione
 * 13:05 workshop di capoeira per bimbi
@@ -23,12 +23,12 @@ Il ricco programma si svolge così:
 
 Tornate qui per trovare più informazioni nei prossimi giorni... :)
 
-Ringraziamo 
 
-**Desideriamo ringraziare**
+
+**Desideriamo ringraziare a:**
 
 ![CGIL](../images/caaf.jpg)
-[www.caaf.it/bolzano](www.caaf.it/bolzano)
+[https://www.caaf.it/bolzano](www.caaf.it/bolzano)
 
 ![Café Pizzeria Christl](../images/christl.jpg)
 (Café Pizzeria Christl, Steinegg)
