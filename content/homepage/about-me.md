@@ -24,3 +24,5 @@ Le quote associative per l'anno 2022 sono riportate nella tabella sottostante.
 [{{<icon class="fa fa-file-pdf-o">}} Modulo d'iscrizione](files/Modulo_iscrizione-v2.pdf)  
 
 Le coordinate bancarie possono essere trovate [qui](banca).
+
+![Jane Doe](images/5xmille-BemBrasil.jpeg)
