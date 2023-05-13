@@ -28,7 +28,7 @@ Tornate qui per trovare più informazioni nei prossimi giorni... :)
 **Desideriamo ringraziare a:**
 
 ![CGIL](../images/caaf.jpg)
-[https://www.caaf.it/bolzano](www.caaf.it/bolzano)
+[https://www.caaf.it/bolzano](https://www.caaf.it/bolzano)
 
 ![Café Pizzeria Christl](../images/christl.jpg)
 (Café Pizzeria Christl, Steinegg)
