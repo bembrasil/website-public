@@ -23,3 +23,16 @@ Il ricco programma si svolge così:
 
 Tornate qui per trovare più informazioni nei prossimi giorni... :)
 
+Ringraziamo 
+
+**Desideriamo ringraziare**
+
+![CGIL](../images/caaf.jpg)
+[www.caaf.it/bolzano](www.caaf.it/bolzano)
+
+![Café Pizzeria Christl](../images/christl.jpg)
+(Café Pizzeria Christl, Steinegg)
+
+![Semirurali Social Park](../images/SemiruraliSocialPark.jpg)
+[https://www.facebook.com/semiruralisocialpark/](https://www.facebook.com/semiruralisocialpark/)
+

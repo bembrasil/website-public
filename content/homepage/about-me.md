@@ -8,11 +8,11 @@ header_menu: true
 
 ##### Diventare membro
 
-Bem Brasil APS è stato fondato nel gennaio 2022. Attualmento abbiamo 22 membri di diverse nationalità, età e background.  
+Bem Brasil APS è stato fondato in dicembre 2021. Attualmento abbiamo intorno a 20 membri di diverse nationalità, età e background.  
 Vogliamo costruire insieme una comunità attiva per vivere la cultura brasiliana e scambiare idee, esperienze e conoscenze su diversi argomenti. A questo scopo, l'associazione organizza vari eventi e attività per tutte le fasce d'età.
 
 Diventare membro è facile. Basta compilare il modulo di adesione, firmarlo e inviarlo a aps.bembrasil@gmail.com.
-Le quote associative per l'anno 2022 sono riportate nella tabella sottostante.
+Le quote associative per l'anno 2023 sono riportate nella tabella sottostante.
 
 | Tipo di membro | Quota annuale |
 | --- | ----------- |
