@@ -19,7 +19,7 @@ Il sabato **27 maggio 2023, dalle ore 11:00 alle 23:00** si terra il Bem Brasili
 * 17:00 concerto di Forró
 * 19:00 presentazione di Sissamba
 * 20:00 ballerina e ballerino in scena
-* 22:00 concerto di Samba dei Aquarela Axé
+* 20:30 concerto di Samba dei Aquarela Axé
 
 Tornate qui per trovare più informazioni nei prossimi giorni... :)
 
