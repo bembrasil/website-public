@@ -23,6 +23,13 @@ Il sabato **27 maggio 2023, dalle ore 11:00 alle 23:00** si terra il Bem Brasili
 
 Tornate qui per trovare più informazioni nei prossimi giorni... :)
 
+@capoeira_sdb_bolzano_brescia
+@marcysambashow
+@desabafonope
+@sissambabz
+@aquarelaaxe
+
+
 
 
 **Desideriamo ringraziare a:**
