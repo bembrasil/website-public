@@ -7,7 +7,7 @@ header_menu: true
 Bem Brasil APS desidera offrire una serie di attività musicali, culturali, sportive, socievole e di tutto piacevole.
 
 ##### Coming soon...
-* dal 4 Ottobre, 20:00 alle 22:00 Incontri di Forró (corso base e ballo libero) al Centro Lovera a Bolzano [Vedi tutte le informazioni qui](incontriforro23)
+* 7 e 13 Dicembre, 20:00 alle 22:00 Ultimi 'Incontri di Forró' prima di Natale (corso base e ballo libero) al Centro Lovera a Bolzano [Vedi tutte le informazioni qui](incontriforro23)
 
 ---
 
