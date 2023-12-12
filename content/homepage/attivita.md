@@ -8,6 +8,9 @@ Bem Brasil APS desidera offrire una serie di attività musicali, culturali, spor
 
 ##### Coming soon...
 * 7 e 13 Dicembre, 20:00 alle 22:00 Ultimi 'Incontri di Forró' prima di Natale (corso base e ballo libero) al Centro Lovera a Bolzano [Vedi tutte le informazioni qui](incontriforro23)
+* 16 Dicembre, 19:00 alle 24:00 Festa di Natale di Bem Brasil, aperto a tutti - da portare cibi e bevande per il buffet condiviso
+
+![Festa di Natale](images/Festa-Natale-16-12-2023.jpg)
 
 ---
 
@@ -24,6 +27,7 @@ Informati sotto sulle attività attuale!
 ... guarda sotto per il corso di ballo :)
 
 #### Attività svolte in 2023
+* 18 Novembre, 18:00 alle 23:00 Concerto di Samba e Forró
 * 9 Settembre, 17:00 alle 23:00 Forró nel Parco (workshop e concerto) al parco Semirurali a Bolzano [Vedi tutte le informazioni qui](forronelparco23)
 * 27 Maggio, 11:00 alle 23:00 Bem Brasilian Day al parco Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday23)
 * 19 Marzo, 13:00 alle 19:30 Festa della integrazione al centro Lovera a Bolzano [Vedi tutte le informazioni qui](festadellaintegrazione)
@@ -51,6 +55,7 @@ L'associazione vuole offrire l'opportunità di conoscere e provare il samba bras
 * dal 4 Ottobre, 20:00 alle 22:00 Incontri di Forró (corso base e ballo libero) al Centro Lovera a Bolzano [Vedi tutte le informazioni qui](incontriForro23)
 
 #### Attività svolte in 2023
+* 26 Novembre, 14:00 alle 21:00 Workshop di Forró con Kevinn Costa
 * 9 Settembre, 17:00 alle 23:00 Forró nel Parco (workshop e concerto) al parco Semirurali a Bolzano [Vedi tutte le informazioni qui](forronelparco23)
 * 24 Marzo, 19:30 alle 23:30 Workshop di Forró al centro Lovera a Bolzano [Vedi tutte le informazioni qui](workshopforro)
 
