@@ -7,10 +7,8 @@ header_menu: true
 Bem Brasil APS desidera offrire una serie di attività musicali, culturali, sportive, socievole e di tutto piacevole.
 
 ##### Coming soon...
-* 7 e 13 Dicembre, 20:00 alle 22:00 Ultimi 'Incontri di Forró' prima di Natale (corso base e ballo libero) al Centro Lovera a Bolzano [Vedi tutte le informazioni qui](incontriforro23)
-* 16 Dicembre, 19:00 alle 24:00 Festa di Natale di Bem Brasil, aperto a tutti - da portare cibi e bevande per il buffet condiviso
-
-![Festa di Natale](images/Festa-Natale-16-12-2023.jpg)
+* 18 Gennaio, 19:00 alle 20:00 'Alla scoperta del Forró' alla Biblioteca Culture del Mondo, via Marcello 50, Bolzano [Vedi tutte le informazioni qui](scopertaforro24)
+* a partire di Febbraio: nuovo corso di Forró
 
 ---
 
@@ -52,9 +50,10 @@ L'associazione vuole offrire l'opportunità di conoscere e provare il samba bras
 ![Bem Brasil APS](images/pexels-mathieu-acker-2496562.jpg)
 
 #### Prossime attività
-* dal 4 Ottobre, 20:00 alle 22:00 Incontri di Forró (corso base e ballo libero) al Centro Lovera a Bolzano [Vedi tutte le informazioni qui](incontriForro23)
+* a partire da Febbraio: nuovo corso di Forró
 
 #### Attività svolte in 2023
+* dal 4 Ottobre al 13 Dicembre, 20:00 alle 22:00 'Incontri di Forró' (corso base e ballo libero) al Centro Lovera a Bolzano [Vedi tutte le informazioni qui](incontriForro23)
 * 26 Novembre, 14:00 alle 21:00 Workshop di Forró con Kevinn Costa
 * 9 Settembre, 17:00 alle 23:00 Forró nel Parco (workshop e concerto) al parco Semirurali a Bolzano [Vedi tutte le informazioni qui](forronelparco23)
 * 24 Marzo, 19:30 alle 23:30 Workshop di Forró al centro Lovera a Bolzano [Vedi tutte le informazioni qui](workshopforro)
@@ -79,6 +78,10 @@ Vogliamo creare uno spazio per praticare il portoghese - sia per chi vuole impar
 #### Prossime attività
 * su richiesta: incontri informali o corso della lingua portoghese da organizzare
 
+#### Attività svolte in 2023
+* 16 Dicembre, 19:00 alle 24:00 Festa di Natale di Bem Brasil, aperto a tutti - da portare cibi e bevande per il buffet condiviso
+
+![Festa di Natale](images/Festa-Natale-16-12-2023.jpg)
 
 ---
 
