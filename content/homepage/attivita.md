@@ -7,8 +7,8 @@ header_menu: true
 Bem Brasil APS desidera offrire una serie di attività musicali, culturali, sportive, socievole e di tutto piacevole.
 
 ##### Coming soon...
-* 18 Gennaio, 19:00 alle 20:00 'Alla scoperta del Forró' alla Biblioteca Culture del Mondo, via Marcello 50, Bolzano [Vedi tutte le informazioni qui](scopertaforro24)
-* a partire di Febbraio: nuovo corso di Forró
+* 31 Agosto, 9:30 alle 23:30 'Bem Brasilian Day 2024' al parco delle Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday24)
+* a partire da Ottobre: nuovo corso di Forró
 
 ---
 
@@ -50,7 +50,12 @@ L'associazione vuole offrire l'opportunità di conoscere e provare il samba bras
 ![Bem Brasil APS](images/pexels-mathieu-acker-2496562.jpg)
 
 #### Prossime attività
+* a partire da Ottobre: nuovo corso di Forró
+
+#### Attività svolte in 2024
+* durante l'estate: Forro al Talvera
 * a partire da Febbraio: nuovo corso di Forró
+* 18 Gennaio, 19:00 alle 20:00 'Alla scoperta del Forró' alla Biblioteca Culture del Mondo, via Marcello 50, Bolzano [Vedi tutte le informazioni qui](scopertaforro24)
 
 #### Attività svolte in 2023
 * dal 4 Ottobre al 13 Dicembre, 20:00 alle 22:00 'Incontri di Forró' (corso base e ballo libero) al Centro Lovera a Bolzano [Vedi tutte le informazioni qui](incontriForro23)
