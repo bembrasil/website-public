@@ -7,8 +7,9 @@ header_menu: true
 Bem Brasil APS desidera offrire una serie di attività musicali, culturali, sportive, socievole e di tutto piacevole.
 
 ##### Coming soon...
-* 31 Agosto, 9:30 alle 23:30 'Bem Brasilian Day 2024' al parco delle Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday24)
-* a partire da Ottobre: nuovo corso di Forró
+* 12 Luglio, Workshop di Brazilian Zouk con Javi & Mari alla Biblioteca Culture del Mondo a Bolzano [vedi tutte le informazioni qui](wsbrazilianzouk)
+* 16 Luglio, 20:30 Workshop di Forró (con Concerto di Aquarela Axé dalle 17:30 alle 23:00) alla terazza del Shopping Center Twenty [vedi locandina qui](aquarelatwenty25)
+* 6 Settembre, 20:00 Prima Roda de Samba, Pippo Food Chill Stage a Bolzano
 
 ---
 
@@ -22,7 +23,17 @@ Informati sotto sulle attività attuale!
 ![Gruppo di Samba nel Ca'de Bezzi](images/00_IMG-20210922-WA0027.jpg)
 
 #### Prossime attività
-... guarda sotto per il corso di ballo :)
+* 16 Luglio, 17:30 - 23:00 Concerto di Aquarela Axé e Workshop di Forró alla terazza del Shopping Center Twenty [vedi locandina qui](aquarelatwenty25)
+* 30 Agosto, evento di Forrò al Zoona Bolzano - fra poco più informazioni
+
+#### Attività svolte
+* 24 Maggio, 12:00 alle 23:00 Bem Brasilian Day al parco delle Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday25)
+* 7 Febbraio, ore 19:00 Pré-Carnaval al Pippo Food Chill Stage
+
+#### Attività svolte in 2024
+* 2 Settembre, 19:00 Concerto Aquarela Axe alla festa della Weltgruppe Valadares, Caldaro
+* 31 Agosto, Bem Brasilian Day al parco delle Semirurali a Bolzano con musica al vivo di 'Pe no chao' e 'Aquarela Axé' [Vedi tutte le informazioni qui](brazilianday24)
+* 23 Febbraio, Festa Brasileira al Pippo Food Chill Stage [vedi locandina qui](festabrasileira)
 
 #### Attività svolte in 2023
 * 18 Novembre, 18:00 alle 23:00 Concerto di Samba e Forró
@@ -50,10 +61,20 @@ L'associazione vuole offrire l'opportunità di conoscere e provare il samba bras
 ![Bem Brasil APS](images/pexels-mathieu-acker-2496562.jpg)
 
 #### Prossime attività
-* a partire da Ottobre: nuovo corso di Forró
+* 12 Luglio, Workshop di Brazilian Zouk con Javi & Mari alla Biblioteca Culture del Mondo a Bolzano [vedi tutte le informazioni qui](wsbrazilianzouk)
+* 16 Luglio, 20:30 Workshop di Forró (con Concerto di Aquarela Axé dalle 17:30 alle 23:00) alla terazza del Shopping Center Twenty [vedi locandina qui](aquarelatwenty25)
+
+#### Attività svolte
+* 22 Giugno, 15:30 Festa Junina al Ahoi Minigolf, Bolzano
 
 #### Attività svolte in 2024
+* Dicembre, Flash Mob di Forrò al mercatino di natale di Bolzano
+* 16 Novembre, Workshop Forro roots con Luisa Conti, al centro giovanile vintola, Bolzano
+* 26 Ottobre, Workshop Forro roots con Luisa Conti, al centro giovanile vintola, Bolzano
+* a partire da Ottobre: incontri di Forró alla Biblioteca Culture del Mondo
+* 10 Ottobre, Presentazione di Forrò all’evento culinarico della associazione America Latina,  Bressanone
 * durante l'estate: Forro al Talvera
+* 18 Aprile, Presentazione di Forrò alla Vollversammlung della Weltgruppe Valadares
 * a partire da Febbraio: nuovo corso di Forró
 * 18 Gennaio, 19:00 alle 20:00 'Alla scoperta del Forró' alla Biblioteca Culture del Mondo, via Marcello 50, Bolzano [Vedi tutte le informazioni qui](scopertaforro24)
 
@@ -82,6 +103,9 @@ Vogliamo creare uno spazio per praticare il portoghese - sia per chi vuole impar
 
 #### Prossime attività
 * su richiesta: incontri informali o corso della lingua portoghese da organizzare
+
+#### Attività svolte
+* 22 Giugno, 15:30 Festa Junina al Ahoi Minigolf, Bolzano
 
 #### Attività svolte in 2023
 * 16 Dicembre, 19:00 alle 24:00 Festa di Natale di Bem Brasil, aperto a tutti - da portare cibi e bevande per il buffet condiviso
