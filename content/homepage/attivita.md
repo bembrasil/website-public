@@ -27,7 +27,7 @@ Informati sotto sulle attività attuale!
 * 30 Agosto, evento di Forrò al Zoona Bolzano - fra poco più informazioni
 
 #### Attività svolte
-* 24 Maggio, 12:00 alle 23:00 Bem Brasilian Day al parco delle Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday25)
+* 24 Maggio, 12:00 alle 23:00 Bem Brasilian Day al parco delle Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday24)
 * 7 Febbraio, ore 19:00 Pré-Carnaval al Pippo Food Chill Stage
 
 #### Attività svolte in 2024
