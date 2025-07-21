@@ -5,20 +5,23 @@ title:
 ---
 ### Bem Brasilian Day
 
-Il sabato **31 agosto 2024, dalle ore 9:30 alle 23:30** si terra il terzo Bem Brasilian Day al [parco Semirurali a Bolzano](https://www.google.com/maps/place/Parco+delle+Semirurali/@46.48658,11.3260175,15z/data=!4m5!3m4!1s0x0:0xb88668c95ed7951a!8m2!3d46.48658!4d11.3260175). via Alessandria 15, Bolzano
+Il sabato **24 maggio 2025, dalle ore 12:00 alle 23:00** si terra il quarto Bem Brasilian Day al [parco Semirurali a Bolzano](https://www.google.com/maps/place/Parco+delle+Semirurali/@46.48658,11.3260175,15z/data=!4m5!3m4!1s0x0:0xb88668c95ed7951a!8m2!3d46.48658!4d11.3260175). via Alessandria 15, Bolzano
 
-![Brazilian Day](../images/locandina-pagina1.jpg)
+![Brazilian Day](../images/save-the-date_klein.png)
+![Brazilian Day](../images/sfilata_klein.png)
 
 #### PROGRAMMA con orari ####
-![Brazilian Day](../images/locandina-pagina2.jpg)
+![Brazilian Day](../images/programma_klein.png)
 
-Tornate qui per trovare più informazioni nei prossimi giorni... :)
+Con la partecipazione degli nostri partner artisti, vedi instagram
 
-@capoeira_sdb_bolzano_brescia
+@maracanafestabrasiliana
 
-@marcysambashow
+@forro_bolzano
 
-@forropenochao
+@cont.mestre.lampiao
+
+@gisele.amistadi
 
 @sissambabz
 
@@ -29,8 +32,8 @@ Tornate qui per trovare più informazioni nei prossimi giorni... :)
 
 **Desideriamo ringraziare a:**
 
-![Comune di Bolzano, Ufficio Cultura](../images/comune-bolzano.jpg)
-[Comune di Bolzano, 7.1-Ufficio-Cultura](https://opencity.comune.bolzano.it/Amministrazione/Uffici/7.1-Ufficio-Cultura)
+![Comune di Bolzano, Ufficio Cultura](../images/logo-citta-bolzano.jpg)
+[Comune di Bolzano, 7.1-Ufficio-Cultura](https://opencity.comune.bolzano.it/Amministrazione/Uffici/7.1-Ufficio-Cultura) per il sostegno ricevuto per il progetto Bem Brasilian Day 2025
 
 ![Semirurali Social Park](../images/SemiruraliSocialPark.jpg)
 [https://www.facebook.com/semiruralisocialpark/](https://www.facebook.com/semiruralisocialpark/)

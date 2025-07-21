@@ -7,8 +7,8 @@ header_menu: true
 Bem Brasil APS desidera offrire una serie di attività musicali, culturali, sportive, socievole e di tutto piacevole.
 
 ##### Coming soon...
-* 12 Luglio, Workshop di Brazilian Zouk con Javi & Mari alla Biblioteca Culture del Mondo a Bolzano [vedi tutte le informazioni qui](wsbrazilianzouk)
-* 16 Luglio, 20:30 Workshop di Forró (con Concerto di Aquarela Axé dalle 17:30 alle 23:00) alla terazza del Shopping Center Twenty [vedi locandina qui](aquarelatwenty25)
+* 22 Luglio, 18:00 - 22:00 partecipazione al Circo Picnic della Cooperativa 19 al parco delle Semirurali a Bolzano
+* 25 Luglio, evento di Forrò al Zoona Bolzano con Aquarela Axé - fra poco più informazioni
 * 6 Settembre, 20:00 Prima Roda de Samba, Pippo Food Chill Stage a Bolzano
 
 ---
@@ -23,11 +23,11 @@ Informati sotto sulle attività attuale!
 ![Gruppo di Samba nel Ca'de Bezzi](images/00_IMG-20210922-WA0027.jpg)
 
 #### Prossime attività
-* 16 Luglio, 17:30 - 23:00 Concerto di Aquarela Axé e Workshop di Forró alla terazza del Shopping Center Twenty [vedi locandina qui](aquarelatwenty25)
-* 30 Agosto, evento di Forrò al Zoona Bolzano - fra poco più informazioni
+* 25 Luglio, evento di Forrò al Zoona Bolzano con Aquarela Axé - fra poco più informazioni
 
 #### Attività svolte
-* 24 Maggio, 12:00 alle 23:00 Bem Brasilian Day al parco delle Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday24)
+* 16 Luglio, 17:30 - 23:00 Concerto di Aquarela Axé e Workshop di Forró alla terazza del Shopping Center Twenty [vedi locandina qui](aquarelatwenty25)
+* 24 Maggio, 12:00 alle 23:00 Bem Brasilian Day al parco delle Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday25)
 * 7 Febbraio, ore 19:00 Pré-Carnaval al Pippo Food Chill Stage
 
 #### Attività svolte in 2024
@@ -61,11 +61,13 @@ L'associazione vuole offrire l'opportunità di conoscere e provare il samba bras
 ![Bem Brasil APS](images/pexels-mathieu-acker-2496562.jpg)
 
 #### Prossime attività
-* 12 Luglio, Workshop di Brazilian Zouk con Javi & Mari alla Biblioteca Culture del Mondo a Bolzano [vedi tutte le informazioni qui](wsbrazilianzouk)
-* 16 Luglio, 20:30 Workshop di Forró (con Concerto di Aquarela Axé dalle 17:30 alle 23:00) alla terazza del Shopping Center Twenty [vedi locandina qui](aquarelatwenty25)
+* 25 Luglio, evento di Forrò al Zoona Bolzano con Aquarela Axé - fra poco più informazioni
 
 #### Attività svolte
+* 16 Luglio, 20:30 Workshop di Forró (con Concerto di Aquarela Axé dalle 17:30 alle 23:00) alla terazza del Shopping Center Twenty [vedi locandina qui](aquarelatwenty25)
+* 12 Luglio, Workshop di Brazilian Zouk con Javi & Mari alla Biblioteca Culture del Mondo a Bolzano [vedi tutte le informazioni qui](wsbrazilianzouk)
 * 22 Giugno, 15:30 Festa Junina al Ahoi Minigolf, Bolzano
+* 24 Maggio, 12:00 alle 23:00 Bem Brasilian Day al parco delle Semirurali a Bolzano [Vedi tutte le informazioni qui](brazilianday25)
 
 #### Attività svolte in 2024
 * Dicembre, Flash Mob di Forrò al mercatino di natale di Bolzano
